@@ -45,3 +45,4 @@ Temporary Items
 # Exclude Eclipse project files and directories
 .project
 .settings
+.idea
